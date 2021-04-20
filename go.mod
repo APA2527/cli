@@ -13,11 +13,11 @@ require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.0
 	github.com/enescakir/emoji v1.0.0
 	github.com/gabriel-vasile/mimetype v1.1.2
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.5.4
 	github.com/google/shlex v0.0.0-20191202100458-e7afc7fbc510
 	github.com/hashicorp/go-version v1.2.1
 	github.com/henvic/httpretty v0.0.6
-	github.com/itchyny/gojq v0.12.1
+	github.com/itchyny/gojq v0.12.3
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51
 	github.com/mattn/go-colorable v0.1.8
 	github.com/mattn/go-isatty v0.0.12
